@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // creazione del enumeratore delle materie
         enum Materia
         {
             Matematica,
